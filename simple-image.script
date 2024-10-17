@@ -7,6 +7,8 @@ sprite = Sprite(image);
 sprite.SetX(pos_x);
 sprite.SetY(pos_y);
 
+Plymouth.SetScaleMode("letterbox");
+
 fun refresh_callback () {
   sprite.SetOpacity(1);
   spr.SetZ(15);
