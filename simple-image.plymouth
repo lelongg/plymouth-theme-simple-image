@@ -6,3 +6,4 @@ ModuleName=script
 [script]
 ImageDir=/usr/share/plymouth/themes/simple-image
 ScriptFile=/usr/share/plymouth/themes/simple-image/simple-image.script
+Resolution=1920x1080
